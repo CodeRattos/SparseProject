@@ -1,2 +1,2 @@
-# SparseProject asda
+# SparseProject
 ## Murat Furkan Tosun
